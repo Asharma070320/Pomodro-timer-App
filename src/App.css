@@ -154,6 +154,7 @@
   color: rgba(140, 117, 105, 0.8);
 }
 
+
 @media (max-width: 750px) {
   .modal-container {
     max-width: 90vw;
